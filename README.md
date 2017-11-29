@@ -1,5 +1,7 @@
 # tools-env
 
+The ouput of the parsing for each programmer should look like this:
+
 ```
 {
 	"document_events": [
