@@ -29,10 +29,11 @@ public class Parsing {
 					newLine = newLine + entries[i]+",";
 				}
 				newLine+=newId;
-				//do such an if, if u want to get programmers 0, 30, and 15 only
-			//	if(entries[0].equals("30") || entries[0].equals("0") || entries[0].equals("15")){
+				//do such an if, if u want to get programmers 7, 8, 9, 30, 0, and 15 only
+				if(entries[0].equals("7")|| entries[0].equals("8")|| entries[0].equals("9")|| 
+						entries[0].equals("30") || entries[0].equals("0") || entries[0].equals("15")){
 					newText = newText + newLine + "\n";
-			//	}
+				}
 			//	System.out.println(newLine);
 				count++;
 			}
