@@ -1,0 +1,1 @@
+NavigationEvent,ActivityEvent,CompletionEvent,FindEvent,DocumentEvent,SystemEvent,SolutionEvent,BuildEvent,IDEStateEvent,WindowEvent,TestRunEvent,CommandEvent,VersionControlEvent,EditEvent,DebuggerEvent
